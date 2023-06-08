@@ -10,7 +10,7 @@
 
 ## 主要功能
 
-- 聊天功能
+- 聊天/绘画功能
     - OpenAI API: GPT-3.5/GPT-4（是否支持GPT4，依赖你的 API Key）
 - 语音功能（商用版支持）
     - Azure Speech SDK: 语音切换
@@ -32,6 +32,7 @@
 <img src="images/chatgpt_1.jpeg" width="30%" height="30%">
 <img src="images/chatgpt_2.jpeg" width="30%" height="30%">
 <img src="images/chatgpt_3.jpeg" width="30%" height="30%">
+  
 <img src="images/chatgpt_4.jpeg" width="30%" height="30%">
 <img src="images/chatgpt_5.jpeg" width="30%" height="30%">
 
@@ -45,6 +46,7 @@
 <img src="images/aichat_1.jpeg" width="30%" height="30%">
 <img src="images/aichat_2.jpeg" width="30%" height="30%">
 <img src="images/aichat_3.jpeg" width="30%" height="30%">
+  
 <img src="images/aichat_4.jpeg" width="30%" height="30%">
 <img src="images/aichat_5.jpeg" width="30%" height="30%">
 
@@ -62,7 +64,8 @@
 ## QQ交流群
 
 ### ChatGPT-APP-AIChat 交流群: 824060029
-<img src="images/qq.png" width="60%" height="60%">
+
+<img src="images/qq.png" width="30%" height="30%">
 
 ## License
 
