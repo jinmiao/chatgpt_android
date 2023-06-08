@@ -1,11 +1,11 @@
 # ChatGPT 安卓版
 
-你的私人 AI 助理，只要在 app 设置你的 Openai API Key，就可以随时随地和 AI 聊天，并且支持上下文对话，聊天历史随时查看。
+私人 AI 助理，只要在 app 设置你的 Openai API Key，就可以随时随地和 AI 聊天，并且支持上下文对话，聊天历史随时查看。
 
-> 安全提示：
-> 
-> 1、API Key 只存在本地（如果二次开发请不要把 key 上传到开源仓库）
-> 
+开源版本是直接调用的 Openai API 接口，所以还需要挂 VPN。如何不想挂VPN使用，可以试试商用版本 或是 自己搭建反向代理服务。
+
+> 安全提示：  
+> 1、API Key 只存在本地（如果二次开发请不要把 key 上传到开源仓库）  
 > 2、APP 聊天历史只存在本地
 
 ## 主要功能
@@ -29,7 +29,8 @@
 - 绘画
 - 历史
 
-<img src="images/chatgpt_1.jpeg" width="30%"> <img src="images/chatgpt_2.jpeg" width="30%"> <img src="images/chatgpt_3.jpeg" width="30%"> <img src="images/chatgpt_4.jpeg" width="30%"> <img src="images/chatgpt_5.jpeg" width="30%">
+<img src="images/chatgpt_1.jpeg" width="30%"> <img src="images/chatgpt_2.jpeg" width="30%"> <img src="images/chatgpt_3.jpeg" width="30%"> 
+<img src="images/chatgpt_4.jpeg" width="30%"> <img src="images/chatgpt_5.jpeg" width="30%">
 
 ### 商用版本
 
@@ -38,7 +39,8 @@
 - 历史
 - 语音
 
-<img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%"> <img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
+<img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
+<img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
 
 ## App 下载
 
