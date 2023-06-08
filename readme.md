@@ -44,7 +44,7 @@ const val OPENAI_API_KEY = ""
 <img src="images/chatgpt_1.jpeg" width="30%"> <img src="images/chatgpt_2.jpeg" width="30%"> <img src="images/chatgpt_3.jpeg" width="30%"> 
 <img src="images/chatgpt_4.jpeg" width="30%"> <img src="images/chatgpt_5.jpeg" width="30%">
 
-### 商用版本
+### 商用版本（无需 VPN，直接使用）
 
 - 聊天
 - 绘画
