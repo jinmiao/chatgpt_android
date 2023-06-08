@@ -29,12 +29,11 @@
 - 绘画
 - 历史
 
-<img src="images/chatgpt_1.jpeg" width="30%" height="30%">
-<img src="images/chatgpt_2.jpeg" width="30%" height="30%">
-<img src="images/chatgpt_3.jpeg" width="30%" height="30%">
-  
-<img src="images/chatgpt_4.jpeg" width="30%" height="30%">
-<img src="images/chatgpt_5.jpeg" width="30%" height="30%">
+<img src="images/chatgpt_1.jpeg" width="30%">
+<img src="images/chatgpt_2.jpeg" width="30%">
+<img src="images/chatgpt_3.jpeg" width="30%">  
+<img src="images/chatgpt_4.jpeg" width="30%">
+<img src="images/chatgpt_5.jpeg" width="30%">
 
 ### 商用版本
 
@@ -43,22 +42,19 @@
 - 历史
 - 语音
 
-<img src="images/aichat_1.jpeg" width="30%" height="30%">
-<img src="images/aichat_2.jpeg" width="30%" height="30%">
-<img src="images/aichat_3.jpeg" width="30%" height="30%">
-  
-<img src="images/aichat_4.jpeg" width="30%" height="30%">
-<img src="images/aichat_5.jpeg" width="30%" height="30%">
+<img src="images/aichat_1.jpeg" width="30%">
+<img src="images/aichat_2.jpeg" width="30%">
+<img src="images/aichat_3.jpeg" width="30%">  
+<img src="images/aichat_4.jpeg" width="30%">
+<img src="images/aichat_5.jpeg" width="30%">
 
 ## App 下载
 
 ### 商用版本
 
-下载地址：[https://www.pgyer.com/Fq458k](https://www.pgyer.com/Fq458k)
-
-或
-二维码
-
+下载地址：[https://www.pgyer.com/Fq458k](https://www.pgyer.com/Fq458k)  
+或  
+二维码  
 <img src="images/qrcode_download.png" width="30%" height="30%">
 
 ## QQ交流群
@@ -67,6 +63,15 @@
 
 <img src="images/qq.png" width="30%" height="30%">
 
+##  赞助
+
+如果项目对您有帮助，希望老板支持一下，祝老板发财～
+
+微信打赏  
+<img src="images/wexinpay.jpeg" width="30%" height="30%">
+
+支付宝打赏  
+<img src="images/alipay.jpeg" width="30%" height="30%">
 ## License
 
 MIT License
