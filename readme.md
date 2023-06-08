@@ -84,12 +84,6 @@ const val OPENAI_API_KEY = ""
 二维码  
 <img src="images/qrcode_download.png" width="30%" height="30%">
 
-## QQ交流群
-
-### ChatGPT-APP-AIChat 交流群: 824060029
-
-<img src="images/qq.png" width="30%" height="30%">
-
 ## 赞助
 
 如果项目对您有帮助，希望老板支持一下，祝老板发财～
