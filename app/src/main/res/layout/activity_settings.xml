@@ -99,7 +99,7 @@
                     android:id="@+id/new_version_title"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="商用版本(APP 内支付)"
+                    android:text="商用版本"
                     android:textColor="@color/text_title"
                     android:textSize="@dimen/text_title" />
 
