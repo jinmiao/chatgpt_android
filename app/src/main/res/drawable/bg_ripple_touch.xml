@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#606060">
+    <!-- Change this to your desired ripple color. -->
+    <item android:drawable="@color/nav_menu_background" />
+    <!-- Change this to your desired background color. -->
+</ripple>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="now">现在</string>
+    <string name="in_30_mins">30分钟内</string>
+    <string name="in_1_hour">1小时内</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="nickname">昵称</string>
+    <string name="settings">应用设置</string>
+    <string name="share_app">分享应用</string>
+    <string name="history">聊天历史</string>
+    <string name="copied">已复制</string>
+
+</resources>
