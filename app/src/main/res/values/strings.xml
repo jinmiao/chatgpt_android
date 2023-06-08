@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- 不需要翻译的 -->
-    <string name="app_name" translatable="false">ChatGPT</string>
+    <string name="app_name" translatable="false">CustomAI</string>
 
     <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
     <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>

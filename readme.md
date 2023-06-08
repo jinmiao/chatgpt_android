@@ -78,6 +78,13 @@ const val OPENAI_API_KEY = ""
 
 ## App 下载
 
+### 开源版本
+
+下载地址：[https://www.pgyer.com/customai](https://www.pgyer.com/customai)  
+或  
+二维码  
+<img src="images/customai_download.png" width="30%" height="30%">
+
 ### 商用版本
 
 下载地址：[https://www.pgyer.com/Fq458k](https://www.pgyer.com/Fq458k)  

@@ -209,6 +209,7 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:visibility="invisible"
+                android:paddingBottom="60dp"
                 tools:listitem="@layout/item_message"
                 tools:visibility="invisible" />
         </FrameLayout>

@@ -6,6 +6,7 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.widget.Toolbar
+import cc.shinichi.library.ImagePreview
 import com.afollestad.materialdialogs.MaterialDialog
 import com.afollestad.materialdialogs.input.input
 import com.openai.api.aichat.ChatApplication.Companion.app
@@ -64,7 +65,7 @@ class SettingsActivity : BaseActivity<ActivitySettingsBinding, SettingsViewModel
         val sendIntent: Intent = Intent().apply {
             action = Intent.ACTION_SEND
             putExtra(Intent.EXTRA_TEXT,
-                "【AIChat】可以和AI直接聊天的APP，快来下载体验吧。\nhttps://www.pgyer.com/Fq458k")
+                "私人定制 AI，快来下载体验吧。\nhttps://www.pgyer.com/customai")
             type = "text/plain"
         }
 
