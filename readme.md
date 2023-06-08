@@ -1,6 +1,6 @@
-# ChatGPT 安卓版 - AI 私人定制
+# ChatGPT 安卓版 - 私人定制 AI
 
-私人 AI 助理，只要在 app 设置你的 Openai API Key，就可以随时随地和 AI 聊天，并且支持上下文对话，聊天历史随时查看。
+私人定制 AI，只要在 App 里设置你的 Openai API Key，就可以随时随地和 AI 聊天，并且支持上下文对话，聊天历史随时查看。
 
 开源版本是直接调用的 Openai API 接口，所以还需要挂 VPN。如何不想挂 VPN 使用，可以试试商用版本 或是 自己搭建反向代理服务。
 
@@ -8,11 +8,11 @@
 > 1、API Key 只存在本地（如果二次开发请不要把 key 上传到开源仓库）  
 > 2、APP 聊天历史只存在本地
 
-## 主要功能
+## 功能
 
 - 聊天/绘画功能
     - OpenAI API: GPT-3.5/GPT-4（是否支持GPT4，依赖你的 API Key）
-- 语音功能（商用版支持）
+- 语音（商用版支持）
     - Azure Speech SDK: 语音切换
 
 ## 配置
@@ -99,6 +99,11 @@ const val OPENAI_API_KEY = ""
 
 支付宝打赏  
 <img src="images/alipay.jpeg" width="30%" height="30%">
+
+## 商务合作
+
+扫码加微，非诚勿扰，非常感谢～  
+<img src="images/wechat_qr.jpeg" width="30%" height="30%">
 
 ## License
 
