@@ -18,8 +18,20 @@
 ## 配置
 
 - OpenAI API Key
-- Azure Speech Key
-  ![Image](images/key_set.png)
+
+### 两种方式设置 API Key：
+
+#### 1、可以在代码里设置
+
+```kotlin
+package com.openai.api.aichat.common.utils
+
+const val OPENAI_API_KEY = ""
+```
+
+#### 2、APP设置里动态设置
+
+<img src="images/chatgpt_60.jpeg" width="50%">
 
 ## App 截图
 
@@ -37,7 +49,28 @@
 - 聊天
 - 绘画
 - 历史
-- 语音
+- 语音（定制化语音学习外语） 
+
+**目前支持外语语音：**  
+外语：
+  - 🇺🇸英语
+  - 🇪🇸西班牙语
+  - 🇦🇪阿拉伯语
+  - 🇫🇷法语
+  - 🇷🇺俄语
+  - 🇵🇹葡萄牙语
+  - 🇩🇪德语
+  - 🇯🇵日语 
+  
+小语种：
+  - 🇰🇷韩语，
+  - 🇮🇹意大利语
+  - 🇳🇱荷兰语
+  - 🇵🇱波兰语
+  - 🇸🇪瑞典语
+  - 🇺🇦乌克兰语
+  - 🇹🇷土耳其语
+  - 🇬🇷希腊语
 
 <img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
 <img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
@@ -57,7 +90,7 @@
 
 <img src="images/qq.png" width="30%" height="30%">
 
-##  赞助
+## 赞助
 
 如果项目对您有帮助，希望老板支持一下，祝老板发财～
 
@@ -66,6 +99,7 @@
 
 支付宝打赏  
 <img src="images/alipay.jpeg" width="30%" height="30%">
+
 ## License
 
 MIT License
