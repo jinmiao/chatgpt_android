@@ -41,46 +41,48 @@ const val OPENAI_API_KEY = ""
 - 绘画
 - 历史
 
-<img src="images/chatgpt_1.jpeg" width="30%"> <img src="images/chatgpt_2.jpeg" width="30%"> <img src="images/chatgpt_3.jpeg" width="30%"> 
-<img src="images/chatgpt_4.jpeg" width="30%"> <img src="images/chatgpt_5.jpeg" width="30%">
+<img src="images/chatgpt_1.jpeg" width="30%"> <img src="images/chatgpt_2.jpeg" width="30%"> <img src="images/chatgpt_4.jpeg" width="30%">
 
 ### 商用版本（无需 VPN，直接使用）
 
 - 聊天
 - 绘画
 - 历史
-- 语音（中文支持方言切换；外语学习：定制化语音） 
+- 语音（中文支持方言切换；外语学习：定制化语音）
 - 支付（支付宝支付）
-
-**中文支持的语音风格：**
-
-- 普通话
-- 东北话
-- 陕西话
-- 河南话
-- 粤语
-
-**目前支持外语语音：**  
-
-外语：
-  - 🇺🇸英语
-  - 🇪🇸西班牙语
-  - 🇦🇪阿拉伯语
-  - 🇫🇷法语
-  - 🇷🇺俄语
-  - 🇵🇹葡萄牙语
-  - 🇩🇪德语
-  - 🇯🇵日语 
   
-小语种：
-  - 🇰🇷韩语，
-  - 🇮🇹意大利语
-  - 🇳🇱荷兰语
-  - 🇵🇱波兰语
-  - 🇸🇪瑞典语
-  - 🇺🇦乌克兰语
-  - 🇹🇷土耳其语
-  - 🇬🇷希腊语
+**中文支持的语音风格：**  
+  
+<table>
+<tr><td>序号</td><td>语言</td><td>语音风格</td></tr>
+<tr><td>1</td><td rowspan="5">中文</td><td>普通话</td></tr>
+<tr><td>2</td><td>东北话</td></tr>
+<tr><td>3</td><td>陕西话</td></tr>
+<tr><td>4</td><td>河南话</td></tr>
+<tr><td>5</td><td>粤语</td></tr>
+</table>
+   
+**目前支持外语语音：**
+  
+<table>
+<tr><td>序号</td><td>语言</td><td>语言</td><td>语音</td></tr>
+<tr><td>1</td><td rowspan="8">外语</td><td>🇺🇸 英语</td><td rowspan="16">逼真的神经网络语音</td></tr>
+<tr><td>2</td><td>🇪🇸 西班牙语</td></tr>
+<tr><td>3</td><td>🇦🇪 阿拉伯语</td></tr>
+<tr><td>4</td><td>🇫🇷 法语</td></tr>
+<tr><td>5</td><td>🇷🇺 俄语</td></tr>
+<tr><td>6</td><td>🇵🇹 葡萄牙语</td></tr>
+<tr><td>7</td><td>🇩🇪 德语</td></tr>
+<tr><td>8</td><td>🇯🇵 日语</td></tr>
+<tr><td>9</td><td rowspan="8">小语种</td><td>🇰🇷 韩语</td></tr>
+<tr><td>10</td><td>🇮🇹 意大利语</td></tr>
+<tr><td>11</td><td>🇳🇱 荷兰语</td></tr>
+<tr><td>12</td><td>🇵🇱 波兰语</td></tr>
+<tr><td>13</td><td>🇸🇪 瑞典语</td></tr>
+<tr><td>14</td><td>🇺🇦 乌克兰语</td></tr>
+<tr><td>15</td><td>🇹🇷土耳其语</td></tr>
+<tr><td>16</td><td>🇬🇷 希腊语</td></tr>
+</table>
 
 <img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
 <img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
@@ -115,6 +117,11 @@ const val OPENAI_API_KEY = ""
 
 扫码加微，非诚勿扰，非常感谢～  
 <img src="images/wechat_qr.jpeg" width="30%" height="30%">
+
+
+## Star 趋势
+
+[![Stargazers over time](https://starchart.cc/jinmiao/chatgpt_android.svg)](https://starchart.cc/jinmiao/chatgpt_android)
 
 ## License
 
