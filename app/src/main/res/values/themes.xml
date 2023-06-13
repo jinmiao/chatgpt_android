@@ -10,7 +10,7 @@
         <item name="colorOnSecondary">@color/colorOnSecondary</item>
 
         <!-- Set the windowBackground color. -->
-        <item name="android:windowBackground">@color/ic_launcher_background</item>
+        <item name="android:windowBackground">@color/statusBarColor</item>
         <!-- Set the status bar color. -->
         <item name="android:statusBarColor">@color/statusBarColor</item>
         <!-- Set the navigation bar color. -->
