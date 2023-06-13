@@ -37,7 +37,7 @@ const val OPENAI_API_KEY = ""
 
 ## App 截图
 
-### 开源版本
+### 开源版本预览
 
 - 聊天
 - 绘画
@@ -45,7 +45,7 @@ const val OPENAI_API_KEY = ""
 
 <img src="images/chatgpt_1.jpeg" width="30%"> <img src="images/chatgpt_2.jpeg" width="30%"> <img src="images/chatgpt_4.jpeg" width="30%">
 
-### 商用版本（无需 VPN，直接使用）
+### 商用版本预览（无需 VPN，直接使用）
 
 - 聊天
 - 绘画
