@@ -2,7 +2,8 @@
 
 私人定制 AI，只要在 App 里设置你的 Openai API Key，就可以随时随地和 AI 聊天，并且支持上下文对话，聊天历史随时查看。
 
-开源版本是直接调用的 Openai API 接口，所以还需要挂 VPN。如何不想挂 VPN 使用，可以试试商用版本 或是 自己搭建反向代理服务。
+<a href="openaiApp">**开源版本**</a>是直接调用的 Openai API 接口，所以需要挂 VPN。  
+<a href="bussinessApp">**商用版本**</a>走的服务器反向代理，无需注册，无需 VPN，即开即用，支持语言聊天。
 
 > 安全提示：  
 > 1、API Key 只存在本地（如果二次开发请不要把 key 上传到开源仓库）  
@@ -22,7 +23,7 @@
 ### 两种方式设置 API Key：
 
 #### 1、可以在代码里设置
-
+需要自己搭建环境打包，属于二次开发
 ```kotlin
 package com.openai.api.aichat.common.utils
 
@@ -30,6 +31,7 @@ const val OPENAI_API_KEY = ""
 ```
 
 #### 2、APP设置里动态设置
+直接下载<a href="openaiApp">开源版本</a>，在应用设置里动态修改 Key
 
 <img src="images/chatgpt_60.jpeg" width="50%">
 
@@ -89,14 +91,14 @@ const val OPENAI_API_KEY = ""
 
 ## App 下载
 
-### 开源版本
+### <a id="openaiApp">开源版本</a>
 
 下载地址：[https://www.pgyer.com/customai](https://www.pgyer.com/customai)  
 或  
 二维码  
 <img src="images/customai_download.png" width="30%" height="30%">
 
-### 商用版本
+### <a id="bussinessApp">商用版本</a>
 
 下载地址：[https://www.pgyer.com/Fq458k](https://www.pgyer.com/Fq458k)  
 或  
