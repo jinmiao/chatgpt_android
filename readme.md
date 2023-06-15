@@ -55,6 +55,9 @@ const val OPENAI_API_KEY = ""
 - 语音（中文支持方言切换；外语学习：定制化语音）
 - 支付（支付宝支付）
   
+<img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
+<img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
+  
 **中文支持的语音风格：**  
   
 <table>
@@ -87,10 +90,7 @@ const val OPENAI_API_KEY = ""
 <tr><td>15</td><td>🇹🇷土耳其语</td></tr>
 <tr><td>16</td><td>🇬🇷 希腊语</td></tr>
 </table>
-
-<img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
-<img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
-
+  
 ## App 下载
 
 ### 开源版本

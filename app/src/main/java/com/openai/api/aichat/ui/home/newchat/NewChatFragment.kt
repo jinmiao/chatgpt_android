@@ -52,7 +52,7 @@ class NewChatFragment : MainBaseFragment<FragmentNewChatBinding, NewChatViewMode
     // chat adapter new ui
     private lateinit var messageAdapter: MessageAdapter
 
-    private var aiModel = "gpt-3.5-turbo"
+    private var aiModel = "gpt-3.5-turbo-16K"
     private var isGPT4 = false
 
     @Volatile
