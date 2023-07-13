@@ -107,16 +107,6 @@ const val OPENAI_API_KEY = ""
 二维码  
 <img src="images/qrcode_download.png" width="30%" height="30%">
 
-## 赞助
-
-如果项目对您有帮助，希望老板支持一下，祝老板发财～
-
-微信打赏  
-<img src="images/wexinpay.jpeg" width="30%" height="30%">
-
-支付宝打赏  
-<img src="images/alipay.jpeg" width="30%" height="30%">
-
 ## 商务合作
 
 扫码加微，非诚勿扰，非常感谢～  
