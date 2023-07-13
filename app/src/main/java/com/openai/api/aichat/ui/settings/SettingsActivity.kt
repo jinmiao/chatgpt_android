@@ -74,7 +74,7 @@ class SettingsActivity : BaseActivity<ActivitySettingsBinding, SettingsViewModel
     }
 
     private fun downloadApp() {
-        val url = "https://www.pgyer.com/Fq458k"
+        val url = "https://aichats.life/"
         val intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
         startActivity(intent)
     }

@@ -118,7 +118,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
                 android:gravity="center_horizontal"
-                android:paddingBottom="200dp"
+                android:paddingBottom="20dp"
                 android:orientation="vertical">
 
                 <TextView
@@ -128,51 +128,6 @@
                     android:text="Version: 1.0"
                     android:textColor="@color/text_tip"
                     android:textSize="@dimen/text_tip" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="48dp"
-                    android:layout_marginBottom="4dp"
-                    android:text="支付宝打赏"
-                    android:textColor="@color/text_des"
-                    android:textSize="@dimen/text_des" />
-
-                <ImageView
-                    android:id="@+id/alipay"
-                    android:layout_width="160dp"
-                    android:layout_height="160dp"
-                    android:src="@drawable/alipay" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="16dp"
-                    android:layout_marginBottom="4dp"
-                    android:text="微信打赏"
-                    android:textColor="@color/text_des"
-                    android:textSize="@dimen/text_des" />
-
-                <ImageView
-                    android:id="@+id/wechatpay"
-                    android:layout_width="160dp"
-                    android:layout_height="160dp"
-                    android:src="@drawable/wexinpay" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginTop="48dp"
-                    android:layout_marginBottom="4dp"
-                    android:text="扫码加微，商务合作，非诚勿扰"
-                    android:textColor="@color/text_des"
-                    android:textSize="@dimen/text_des" />
-
-                <ImageView
-                    android:id="@+id/wechat_qr"
-                    android:layout_width="220dp"
-                    android:layout_height="220dp"
-                    android:src="@drawable/wechat_qr" />
 
             </LinearLayout>
 
