@@ -107,11 +107,6 @@ const val OPENAI_API_KEY = ""
 二维码  
 <img src="images/qrcode_download.png" width="30%" height="30%">
 
-## 商务合作
-
-扫码加微，非诚勿扰，非常感谢～  
-<img src="images/wechat_qr.jpeg" width="30%" height="30%">
-
 
 ## Star 趋势
 
