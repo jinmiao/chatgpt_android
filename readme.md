@@ -54,8 +54,8 @@ const val OPENAI_API_KEY = ""
 - 历史
 - 语音（中文支持方言切换；外语学习：定制化语音）
 - 支付（支付宝支付）
-  
-<img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
+
+<img src="images/aichat_0.jpeg" width="30%"> <img src="images/aichat_1.jpeg" width="30%"> <img src="images/aichat_2.jpeg" width="30%"> <img src="images/aichat_3.jpeg" width="30%">
 <img src="images/aichat_4.jpeg" width="30%"> <img src="images/aichat_5.jpeg" width="30%">
   
 **中文支持的语音风格：**  
