@@ -102,7 +102,7 @@ const val OPENAI_API_KEY = ""
 
 ### 商用版本
 
-下载地址：[https://www.pgyer.com/Fq458k](https://www.pgyer.com/Fq458k)  
+下载地址：[https://aichats.life](https://aichats.life)  
 或  
 二维码  
 <img src="images/qrcode_download.png" width="30%" height="30%">
